@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1597641057 source:c:\users\asus\onedrive\documents\ds final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+	<process.h>
+	<windows.h>
+
